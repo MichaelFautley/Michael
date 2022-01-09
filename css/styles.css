@@ -1,0 +1,111 @@
+/* Fonts */
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'The Nautigal', cursive; */
+
+body {
+  font-family: 'Montserrat';
+}
+
+
+/* Navbar Section */
+
+.navbar-brand {
+  font-family: 'The Nautigal', cursive;
+  font-size: 3.5rem;
+  padding-left: 15px;
+  color: #5FB9B0;
+}
+
+.navbar-brand:hover {
+  color: #BEF992;
+}
+
+.nav-item {
+  padding: 0 25px;
+}
+
+.nav-link {
+  color: #5FB9B0;
+}
+
+.nav-link:hover {
+  color: #BEF992;
+}
+
+.nav-bg {
+background-color: #2B1F31;
+}
+
+/* About Me Section */
+
+#about-me {
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+.about-me-heading {
+  font-family: 'The Nautigal', cursive;
+  font-size: 8rem;
+  padding: 5% 0;
+}
+
+.about-p {
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+.about-ul {
+  text-align: left;
+  list-style-type: none;
+}
+
+/* Gallery Section */
+
+#goals {
+  background-color: #413D65;
+  text-align: center;
+  color: #fff;
+}
+
+.goals-h2 {
+  font-family: 'The Nautigal', cursive;
+  font-size: 7rem;
+  padding: 2% 0 15px;
+}
+
+.goals-p {
+  font-weight: 300;
+  font-size: 1.3rem;
+  padding-bottom: 25px;
+
+}
+
+.card {
+  background-color: #413D65;
+  margin: 5% 5%;
+}
+
+.card-p {
+  line-height: 2rem;
+  padding: 3px 5px;
+}
+
+
+/* Footer Section */
+
+#footer {
+  background-color: #2B1F31;
+  text-align: center;
+}
+
+.fab-footer {
+  color: #5FB9B0;
+  padding: 15px 35px 5px;
+}
+
+.copyright-p {
+  color: #5FB9B0;
+  margin-bottom: 0;
+  padding: 5px 0 10px;
+}
